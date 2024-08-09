@@ -1,11 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=achalnm.achalnm" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=achalnm.achalnm" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achal+N!;" />
 </h1>
 
-<h3 align="center">Computer Science Student | Jyothy Institute of Technology</h3>
-<p align="center">Enthusiastic Computer Science student specializing in AIML, Cloud Computing, and Big Data. Passionate about real-time applications, innovative project development, and expanding expertise in DBMS and web technologies. Skilled in C++, Python, and tools like VS Code, PyCharm, and Unreal Engine. Experienced in AI model building, data analysis, and event management systems. Constantly exploring new technologies to contribute to impactful tech solutions</p>
+<h3 align="left">Computer Science Student | Jyothy Institute of Technology</h3>
+<p align="left">Enthusiastic Computer Science student specializing in AIML, Cloud Computing, and Big Data. Passionate about real-time applications, innovative project development, and expanding expertise in DBMS and web technologies. Skilled in C++, Python, and tools like VS Code, PyCharm, and Unreal Engine. Experienced in AI model building, data analysis, and event management systems. Constantly exploring new technologies to contribute to impactful tech solutions</p>
 
 <hr style="border: 0; height: 1px; background: #ddd;" />
  
