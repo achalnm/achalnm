@@ -48,14 +48,29 @@
 # 📊 GitHub Stats:
 
 <!-- General GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&theme=dark&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&theme=dark&hide_border=true)
 
 <!-- Streak Stats -->
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=achalnm&theme=dark&hide_border=true)
 
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
 
 <!-- GitHub Trophy -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=achalnm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- GitHub Profile Summary -->
+![Profile Summary](https://github-profile-summary.vercel.app/api/overview?username=achalnm&theme=dark)
+
+<!-- GitHub Contribution Graph -->
+![Contribution Graph](https://github-contribution-graph.deno.dev/api/?username=achalnm&theme=dark)
+
+<!-- GitHub Stats Card -->
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/pin/?username=achalnm&repo=github-readme-stats&theme=dark)
+
+<!-- GitHub Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=achalnm)
+
 
 
 
