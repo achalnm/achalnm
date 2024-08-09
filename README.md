@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Computer Science Student | Jyothy Institute of Technology</h3>
-<p align="center">All is well bro</p>
+<p align="center">Enthusiastic Computer Science student specializing in AIML, Cloud Computing, and Big Data. Passionate about real-time applications, innovative project development, and expanding expertise in DBMS and web technologies. Skilled in C++, Python, and tools like VS Code, PyCharm, and Unreal Engine. Experienced in AI model building, data analysis, and event management systems. Constantly exploring new technologies to contribute to impactful tech solutions</p>
 
 <br/>
  
