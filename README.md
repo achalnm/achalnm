@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">Computer Science Student | Jyothy Institute of Technology</h3>
+<p align="center">All is well bro</p>
 
 <br/>
  
