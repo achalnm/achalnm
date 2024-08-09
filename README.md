@@ -6,6 +6,8 @@
 
 <h3 align="center">Computer Science Student | Jyothy Institute of Technology</h3>
 <p align="center">Enthusiastic Computer Science student specializing in AIML, Cloud Computing, and Big Data. Passionate about real-time applications, innovative project development, and expanding expertise in DBMS and web technologies. Skilled in C++, Python, and tools like VS Code, PyCharm, and Unreal Engine. Experienced in AI model building, data analysis, and event management systems. Constantly exploring new technologies to contribute to impactful tech solutions</p>
+
+<hr />
  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achal-n-35153821b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achal_n26) [![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1tqo_voG40kqwPLi8mJhbHzlGuDZoJo1K/view?usp=drive_link)
