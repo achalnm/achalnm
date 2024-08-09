@@ -48,16 +48,15 @@
 # 📊 GitHub Stats:
 
 <!-- General GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&theme=dark&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
 
 <!-- Streak Stats -->
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=achalnm&theme=dark&hide_border=true)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=achalnm&theme=react-dark&hide_border=true)
+<!-- GitHub Trophy -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=achalnm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
 
 
   
