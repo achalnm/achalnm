@@ -5,12 +5,14 @@
 </h1>
 
 <h3 align="left">Computer Science Student | Jyothy Institute of Technology</h3>
-<p align="left">Enthusiastic Computer Science student specializing in AIML, Cloud Computing, and Big Data. Passionate about real-time applications, innovative project development, and expanding expertise in DBMS and web technologies. Skilled in C++, Python, and tools like VS Code, PyCharm, and Unreal Engine. Experienced in AI model building, data analysis, and event management systems. Constantly exploring new technologies to contribute to impactful tech solutions</p>
+<p align="left">Passionate about AI, Cloud Computing, and Big Data, I thrive on creating real-time applications and innovative projects. With a knack for C++ and Python, I’m skilled in using tools like VS Code, PyCharm, and Unreal Engine. My experience spans AI model development, data analysis, and event management, and I’m always excited to explore new technologies and build impactful solutions.</p>
 
-<hr style="border: 0; height: 1px; background: #ddd;" />
+<hr />
  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achal-n-35153821b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achal_n26) [![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1tqo_voG40kqwPLi8mJhbHzlGuDZoJo1K/view?usp=drive_link)
+
+<hr />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +43,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-%232C3E50.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <!-- Added Unreal Engine 5 -->
 
-
+<hr />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
