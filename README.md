@@ -56,11 +56,9 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
 
-<!-- Metrics -->
-![Metrics](https://metrics.lecoq.io/achalnm?template=classic&config.timezone=America%2FSao_Paulo)
+<!-- GitHub Activity Graph -->
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=achalnm&theme=react-dark&hide_border=true)
 
-<!-- Contributions Snake -->
-![Contributions Snake](https://github.com/achalnm/achalnm/blob/output/github-contribution-grid-snake.svg)
 
   
 
