@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">Computer Science Student | Jyothy Institute of Technology</h3>
-<p align="left">Passionate about AI, Cloud Computing, and Big Data, I thrive on creating real-time applications and innovative projects. With a knack for C++ and Python, I’m skilled in using tools like VS Code, PyCharm, and Unreal Engine. My experience spans AI model development, data analysis, and event management, and I’m always excited to explore new technologies and build impactful solutions.</p>
+<p align="left">Passionate about AI, Cloud Computing, and Big Data, I thrive on creating real-time applications and innovative projects. With a knack for C++ and Python, I’m skilled in using tools like VS Code, PyCharm, mySQL, Canva, and Unreal Engine. My experience spans AI model development, data analysis, data visualization, and cloud fundumentals. Always excited to explore new technologies and build impactful solutions.</p>
 
 <hr />
  
