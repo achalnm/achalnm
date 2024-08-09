@@ -46,6 +46,21 @@
 <hr />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- General GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&theme=dark&hide_border=true)
+
+<!-- Streak Stats -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=achalnm&theme=dark&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark&hide_border=true)
+
+<!-- Metrics -->
+![Metrics](https://metrics.lecoq.io/achalnm?template=classic&config.timezone=America%2FSao_Paulo)
+
+<!-- Contributions Snake -->
+![Contributions Snake](https://github.com/achalnm/achalnm/blob/output/github-contribution-grid-snake.svg)
+
   
 
