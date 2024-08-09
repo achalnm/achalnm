@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=achalnm.achalnm" />
 
-<h1 align="right">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achal+N!;" />
+<h1 align="Centre">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Achal+N!;" />
 </h1>
 
 <h3 align="left">Computer Science Student | Jyothy Institute of Technology</h3>
