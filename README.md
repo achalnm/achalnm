@@ -44,7 +44,17 @@
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-%232C3E50.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <!-- Added Unreal Engine 5 -->
 
 <hr />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?
+
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=achalnm&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achalnm&layout=compact&theme=dark)
+
+
 
 
 
