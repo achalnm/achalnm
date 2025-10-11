@@ -10,10 +10,10 @@
 <hr />
 
 # 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achal-n-35153821b) 
-[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)]([https://drive.google.com/file/d/1tqo_voG40kqwPLi8mJhbHzlGuDZoJo1K/view?usp=drive_link](https://drive.google.com/file/d/1jcR-yJ2B-HoK3idwBQwBY82btTgduFbG/view?usp=sharing)) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achal_n26) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/achalnm)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/achalnm) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalnanjundamurthy) 
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1jcR-yJ2B-HoK3idwBQwBY82btTgduFbG/view?usp=sharing)
+
 
 <hr />
 
