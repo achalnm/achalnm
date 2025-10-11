@@ -10,7 +10,7 @@
 <hr />
 
 # 🌐 Connect with Me:
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/achalnm) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:achalnm02@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalnanjundamurthy) 
 [![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1jcR-yJ2B-HoK3idwBQwBY82btTgduFbG/view?usp=sharing)
 
@@ -50,9 +50,11 @@
 <hr />
 
 # 📌 Highlights:
-- Published ML research: Currency Detection for the Visually Impaired (MobileNetV2/TFLite) achieving 98.35% accuracy.  
-- Deployed real-time AI models on edge devices (Raspberry Pi) with sub-second inference and voice feedback.  
-- Built full-stack apps with Django/React, DBMS optimization, and scalable cloud deployment.  
-- Experienced in gesture recognition, event management systems, and chatbot prototyping.  
-- Google Maps Local Guide Level 10 with 82M views, contributing location insights globally.  
-- Continuously upskilling through 50+ certifications in Python, Data Science, Cloud, and ML.  
+- Published ML research: Developed **Currency Detection for the Visually Impaired** using MobileNetV2/TFLite on Raspberry Pi, achieving **98.35% accuracy** on 3,000+ test images with **sub-second end-to-end recognition and voice output**.  
+- Deployed **real-time AI/ML edge models** on Raspberry Pi with robust performance under constrained hardware, demonstrating practical IoT/AI deployment skills.  
+- Built **full-stack applications** using Django/React, integrating **SQL/PostgreSQL databases with 100+ concurrent users**, scalable cloud deployment on AWS, Azure, and IBM Cloud.  
+- Developed **AI Hand Gesture Recognition System**, trained on 2,000+ custom images with ~95% recognition accuracy, enabling real-time gesture-controlled accessibility tools.  
+- Prototyped **SupFoodie AI WhatsApp chatbot** and **Munch Maps food locator**, supporting **500+ unique queries** and **75+ eateries**, optimizing personalized search under 1 second.  
+- Google Maps Local Guide Level 10 contributor with **82 million views**, actively reviewing and mapping locations to improve user experience.  
+- Completed **50+ certifications** in Python, Data Science, ML, Cloud Computing, and Web Development, demonstrating continuous upskilling and versatility across technologies.  
+
