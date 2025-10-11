@@ -10,8 +10,7 @@
 # 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:achalnm02@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalnanjundamurthy) 
-[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1jcR-yJ2B-HoK3idwBQwBY82btTgduFbG/view?usp=sharing)
-
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=todoist&logoColor=white)](https://drive.google.com/file/d/1G1ZnnnLRkBw6KImZCVQnwUYSOTacmNOD/view?usp=sharing)
 
 <hr />
 
