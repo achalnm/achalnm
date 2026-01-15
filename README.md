@@ -26,6 +26,16 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-%23F0BB00.svg?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017BDB.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23DD0031.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
+[![Tableau](https://img.shields.io/badge/Tableau-%230E99C6.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+
+
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-%230077B5.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%2304A5E6.svg?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud)
@@ -47,12 +57,13 @@
 
 <hr />
 
-# 📌 Highlights:
-- Published ML research: Developed **Currency Detection for the Visually Impaired** using MobileNetV2/TFLite on Raspberry Pi, achieving **98.35% accuracy** on 3,000+ test images with **sub-second end-to-end recognition and voice output**.  
-- Deployed **real-time AI/ML edge models** on Raspberry Pi with robust performance under constrained hardware, demonstrating practical IoT/AI deployment skills.  
-- Built **full-stack applications** using Django/React, integrating **SQL/PostgreSQL databases with 100+ concurrent users**, scalable cloud deployment on AWS, Azure, and IBM Cloud.  
-- Developed **AI Hand Gesture Recognition System**, trained on 2,000+ custom images with ~95% recognition accuracy, enabling real-time gesture-controlled accessibility tools.  
-- Prototyped **SupFoodie AI WhatsApp chatbot** and **Munch Maps food locator**, supporting **500+ unique queries** and **75+ eateries**, optimizing personalized search under 1 second.  
-- Google Maps Local Guide Level 10 contributor with **82 million views**, actively reviewing and mapping locations to improve user experience.  
-- Completed **50+ certifications** in Python, Data Science, ML, Cloud Computing, and Web Development, demonstrating continuous upskilling and versatility across technologies.  
+# 📌 Highlights
+
+- Published ML research: **Currency Detection for the Visually Impaired** using MobileNetV2/TFLite on Raspberry Pi, achieving **98.35% accuracy** on 3,000+ test images with **sub-second recognition and auditory feedback**.  
+- Deployed **real-time AI/ML edge models** on Raspberry Pi, demonstrating robust performance under constrained hardware for practical IoT/AI applications.  
+- Built **full-stack applications** with Django/React, integrating **SQL/PostgreSQL databases** for 100+ concurrent users, deployed on AWS, Azure, and IBM Cloud.  
+- Developed **AI Hand Gesture Recognition System** on 2,000+ images, achieving ~95% recognition accuracy for real-time gesture-controlled accessibility tools.  
+- Prototyped **SupFoodie AI WhatsApp chatbot** and **Munch Maps food locator**, supporting 500+ unique queries and 75+ eateries with sub-second response times.  
+- Google Maps Local Guide Level 10 contributor with **82M+ views**, improving local mapping accuracy and user experience.  
+- Completed **50+ certifications** across Python, Data Science, ML, Cloud Computing, and Web Development, showcasing continuous upskilling and technical versatility.
 
