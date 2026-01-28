@@ -64,6 +64,6 @@
 - Built **full-stack applications** with Django/React, integrating **SQL/PostgreSQL databases** for 100+ concurrent users, deployed on AWS, Azure, and IBM Cloud.  
 - Developed **AI Hand Gesture Recognition System** on 2,000+ images, achieving around 95% recognition accuracy for real-time gesture-controlled accessibility tools.  
 - Prototyped **SupFoodie AI WhatsApp chatbot** and **Munch Maps food locator**, supporting 500+ unique queries and 75+ eateries with sub-second response times.  
-- Google Maps Local Guide Level 10 contributor with **82M+ views**, improving local mapping accuracy and user experience.  
+- Google Maps Local Guide Level 10 contributor with **92M+ views**, improving local mapping accuracy and user experience.  
 - Completed **55+ certifications** across Python, Data Science, ML, Cloud Computing, and Web Development, showcasing continuous upskilling and technical versatility.
 
