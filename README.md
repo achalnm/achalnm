@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">MSc Computing (Data Analytics) Student | Dublin City University, Ireland</h3>
-<p align="left">Data enthusiast, AI/ML practitioner, and cloud computing explorer with experience in real-time edge AI deployment, full-stack development, and data analytics. Skilled in Python, SQL, C++, and JavaScript, with practical expertise in TensorFlow Lite, Scikit-learn, React, Django, and AWS/Azure/IBM Cloud. Passionate about building impactful solutions, delivering robust applications, and leveraging data to drive informed decisions. Published researcher with real-world project experience, continuously upskilling across emerging technologies.</p>
+<p align="left">Data enthusiast, AI/ML practitioner, and cloud computing explorer with experience in real-time edge AI deployment, full-stack development, and data analytics. Skilled in Python, SQL, C++, and JavaScript, with practical expertise in TensorFlow Lite, Scikit-learn, React, Django, and AWS/Azure. Focused on building impactful solutions, delivering robust applications, and leveraging data to drive informed decisions. Published researcher with real-world project experience, continuously upskilling across emerging technologies.</p>
 
 <hr />
 
