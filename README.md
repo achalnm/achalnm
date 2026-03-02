@@ -59,7 +59,7 @@
 
 # 📌 Highlights
 
-* **Published ML Research:** Developed a currency recognition system for the visually impaired using MobileNetV2/TFLite, achieving **98.35% accuracy** and sub-second inference on Raspberry Pi.
+* **Published ML Research:** Developed an end to end currency recognition system for the visually impaired using MobileNetV2/TFLite, achieving **98.35% accuracy** and sub-second inference on Raspberry Pi.
 * **End-to-End Pipeline Engineering:** Built comprehensive Jupyter-based machine learning workflows (e.g., CardioRisk ML) featuring GPU-accelerated XGBoost, stratified cross-validation, and automated model evaluation for consistent, reproducible results.
 * **Scalable Data Systems:** Engineered PySpark ETL pipelines and distributed processing workflows on HDFS/Parquet, optimizing partitioning to reduce network I/O for large-scale environmental datasets.
 * **Enterprise-Grade Full-Stack:** Developed modular SaaS backends using Node.js/TypeScript and Django/React, integrating **PostgreSQL**.
