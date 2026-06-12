@@ -12,7 +12,7 @@ Data Engineering and Backend | MSc Computing (Data Analytics) at Dublin City Uni
 
 I build backend systems and data pipelines that stay alive after the demo. Over the past 1.5 years I have shipped a production multi-tenant SaaS backend, a live analytics platform for Irish public data, and a multi-agent AI system running on Google Cloud. I am also the first author of a published paper on real-time ML for accessibility.
 
-Currently finishing my MSc at DCU, where my practicum is a smart electricity disaggregation system that breaks 30-minute smart meter data into appliance-level usage and tells households where their energy actually goes.
+Currently finishing my MSc at DCU, where my practicum is a smart electricity disaggregation system that breaks 30-minute smart meter data into appliance-level usage and tells households where their energy actually goes, and how they can save more by comparing their usage with other similar homes.
 
 ## What I Have Built
 
