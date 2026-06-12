@@ -1,69 +1,89 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Achal+Nanjundamurthy!;" />
-</h1>
+<h1 align="center">Hi, I'm Achal Nanjundamurthy</h1>
 
-<h3 align="left">MSc Computing (Data Analytics) | Dublin City University, Ireland</h3>
-<p align="left">Data enthusiast, AI/ML practitioner, and cloud computing explorer with experience in real-time edge AI deployment, full-stack development, and data analytics. Skilled in Python, SQL, C, and JavaScript, with practical expertise in TensorFlow Lite, Scikit-learn, React, Django, and AWS/Azure. Focused on building impactful solutions, delivering robust applications, and leveraging data to drive informed decisions. Published researcher with real-world project experience, continuously upskilling across emerging technologies.</p>
+<p align="center">
+Data Engineering and Backend | MSc Computing (Data Analytics) at Dublin City University | Dublin, Ireland
+</p>
 
-<hr />
+<p align="center">
+  <a href="mailto:achalnm02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/achalnanjundamurthy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leargas.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-L%C3%A9argas-2ea44f" /></a>
+</p>
 
-# 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:achalnm02@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achalnanjundamurthy) 
+I build backend systems and data pipelines that stay alive after the demo. Over the past 1.5 years I have shipped a production multi-tenant SaaS backend, a live analytics platform for Irish public data, and a multi-agent AI system running on Google Cloud. I am also the first author of a published paper on real-time ML for accessibility.
 
-<hr />
+Currently finishing my MSc at DCU, where my practicum is a smart electricity disaggregation system that breaks 30-minute smart meter data into appliance-level usage and tells households where their energy actually goes.
 
-# 💻 Tech Stack:
+## What I Have Built
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+**[Léargas](https://github.com/achalnm/leargas)** | Live at [leargas.vercel.app](https://leargas.vercel.app)
+Irish public data explorer with live dashboards for housing, employment and climate. Automated weekly Python ETL from CSO PxStat and Met Éireann APIs via GitHub Actions, Firestore storage, Next.js and TypeScript frontend. Diagnosed and fixed a live production data bug after an upstream API migration.
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-%23F0BB00.svg?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+**[Multi-Agent AI Productivity System](https://github.com/achalnm/multi-agent-system)**
+Conversational assistant managing tasks, calendar and notes through plain English. An orchestrator agent routes requests to three specialist sub-agents. Google ADK, Gemini 2.5 Flash, FastAPI, SQLAlchemy, Docker, deployed on Google Cloud Run.
 
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017BDB.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23DD0031.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
-[![Tableau](https://img.shields.io/badge/Tableau-%230E99C6.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+**[SupFoodie AI, at BlueTicks Innovations]()** | Production internship work
+Multi-tenant SaaS backend serving 1,000+ daily requests across 25+ restaurant clients. Node.js, Express, TypeScript on PostgreSQL and MongoDB, with JWT auth, RBAC, WhatsApp ordering bot, IoT printer integration and payment processing.
 
+**[Currency Recognition for the Visually Impaired](https://github.com/achalnm/Currency_Recognition_RPi)** | Published in IJRASET, May 2025
+Offline recognition device on Raspberry Pi using fine-tuned MobileNetV2 with TFLite and instant audio feedback. First-author paper reporting 96.7% accuracy and 95.6% precision.
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-%230077B5.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%2304A5E6.svg?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+**[SynthSense](https://github.com/achalnm/SynthSense)**
+Dataset-agnostic pipeline for detecting AI-generated images. CLIP ViT-L/14 and DINOv2 embeddings combined with forensic signals (FFT, ELA, PRNU), trained as a stacked LR and MLP ensemble with a Gradio interface.
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Django](https://img.shields.io/badge/Django-%23092D44.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+**[PySpark Air Quality Analysis](https://github.com/achalnm/pyspark-air-quality-analysis)**
+Distributed ETL combining WHO air quality and World Bank population data across 200+ countries. Partitioning strategy and broadcast joins to minimise shuffle, Parquet outputs, and a population-weighted Health Risk Index.
 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+**[GigProof](https://gig-proof.vercel.app)** | Accepted into The Bridge Accelerator
+Solana gig marketplace with smart contract escrow and on-chain reputation. Selected as a top project from the Dev3pack Global Hackathon. Next.js, Node.js, Firebase, Web3.js.
 
-[![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-%232C3E50.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+## Tech Stack
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<hr />
+**Data and ML**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-# 📌 Highlights
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-* **Published ML Research:** Developed an end to end currency recognition system for the visually impaired using MobileNetV2/TFLite, achieving **98.35% accuracy** and sub-second inference on Raspberry Pi.
-* **End-to-End Pipeline Engineering:** Built comprehensive Jupyter-based machine learning workflows (e.g., CardioRisk ML) featuring GPU-accelerated XGBoost, stratified cross-validation, and automated model evaluation for consistent, reproducible results.
-* **Scalable Data Systems:** Engineered scalable PySpark ETL pipelines and distributed processing workflows on HDFS/Parquet, optimizing partitioning to reduce network I/O for large-scale environmental datasets.
-* **Enterprise-Grade Full-Stack:** Developed modular SaaS backends using Node.js/TypeScript and Django/React, integrating **PostgreSQL**.
-* **Edge AI Deployment:** Optimized TensorFlow Edge AI models on Raspberry Pi for real-time inference, ensuring operational robustness in hardware-constrained production environments.
-* **Continuous Technical Upskilling:** Completed **55+ certifications**, including **Lean Six Sigma Yellow Belt**, Agile Scrum, and AWS Cloud Foundations, showcasing a commitment to process efficiency and reliability.
-* **Community & Leadership:** Google Maps Level 10 Local Guide with **92M+ views** and captained multiple collegiate sports teams, demonstrating leadership and performance under pressure.
+**Cloud, Databases and DevOps**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Highlights
+
+* First-author publication in IJRASET (May 2025) on real-time currency recognition for the visually impaired
+* Built and operated a production SaaS backend serving 1,000+ daily requests across 25+ client businesses
+* Two live deployed systems anyone can use right now: Léargas and GigProof
+* GigProof accepted into The Bridge Accelerator after the Dev3pack Global Hackathon
+* Google Cloud Gen AI Academy graduate, with certifications from Microsoft, Anthropic, MongoDB and AWS
+* Active in Dublin tech: AWS User Group, MongoDB User Group, Python Ireland and Superteam Ireland
+* Google Maps Level 10 Local Guide with 100M+ content views
+
+<p align="center"><i>Open to graduate and junior roles in data engineering, backend and AI engineering in Dublin from September 2026, and internships right now.</i></p>
