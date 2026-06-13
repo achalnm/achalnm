@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Achal%20Nanjundamurthy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Backend%20%7C%20Applied%20ML&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=I+build+systems+that+stay+alive+after+the+demo;MSc+Computing+(Data+Analytics)+%40+DCU+%7C+Dublin;Production+Backend+%7C+Data+Pipelines+%7C+Published+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=I+build+systems+that+stay+alive+after+the+demo;MSc+Computing+(Data+Analytics)+%40+DCU+%7C+Dublin;Production+Backend+%7C+Data+Pipelines+%7C;Published+Researcher" alt="Typing SVG" />
 
 <br/><br/>
 
